@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Calculadora": {
+      "commandName": "Project"
+    },
+    "Perfil 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\hugo.melo\\Desktop\\C#\\Calculadora\\Calculadora\\Calculadora\\Program.cs"
+    }
+  }
+}
